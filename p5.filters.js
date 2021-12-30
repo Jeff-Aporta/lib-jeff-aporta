@@ -1,3 +1,7 @@
+function probar(){
+     alert("funcionando")
+}
+
 function desfaceDeCanales(xR, yR, xG, yG, xB, yB) {
      let R = drawingContext.getImageData(0, 0, width, height)
      let G = drawingContext.getImageData(0, 0, width, height)
