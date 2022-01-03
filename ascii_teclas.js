@@ -1,4 +1,4 @@
-const KEY_ENTER = 10
+const KEY_ENTER = 13
 const KEY_BACK_SPACE = 8
 const KEY_TAB = 9
 const KEY_CANCEL = 3
